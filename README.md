@@ -62,8 +62,8 @@ Ensure the following are installed on your system:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/chat-application.git
-   cd chat-application/frontend
+   git clone https://github.com/yourusername/chatboot.git
+   cd chatboot/frontend
 
 2. Install dependencies
    npm install
